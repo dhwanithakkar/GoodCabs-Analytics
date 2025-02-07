@@ -1,4 +1,4 @@
-# 🚕 GoodCabs (Transporation & Mobility Analytics)
+# 🚕 GoodCabs (Transportation & Mobility Analytics)
 
 ## 🚀 Project Overview  
 GoodCabs, a taxi service provider, focuses on empowering local drivers by enabling them to earn a stable income within their own cities while delivering top-notch service to customers. Operating in ten tier-2 cities across India, the company’s leadership seeks to evaluate its performance based on essential metrics such as ride volume, customer satisfaction, retention rates, trip patterns, and the proportion of new versus returning passengers. To enhance **data-driven decision-making**, GoodCabs integrates **Power BI** into its operations for insightful analysis and strategic improvements.
